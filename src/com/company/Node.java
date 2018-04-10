@@ -71,7 +71,7 @@ public class Node {
                 if(dataItems[c]==null){
                     dataItems[c] = data;
                 }
-                //if the node is full then we send it to another node.
+                //i the node is full then we send it to another node.
             }
         }
     }
